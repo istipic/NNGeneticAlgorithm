@@ -1,4 +1,4 @@
-# AI Algoritmi: Genetska Optimizacija & Rezolucijsko Dokazivanje
+# AI Algoritmi: Genetska Optimizacija i Rezolucijsko Dokazivanje
 
 Ovaj repozitorij sadrži Python implementacije dvaju algoritama iz područja umjetne inteligencije.
 
